@@ -1,4 +1,6 @@
 ## Hi there 👋
+### I'm VoyagerXD, you can also call me Priyam
+### I'm currently learning C
 
 <!--
 **Voyager-XD/Voyager-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
