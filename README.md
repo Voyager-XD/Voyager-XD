@@ -2,6 +2,8 @@
 ### I'm VoyagerXD, you can also call me Priyam
 ### I'm currently learning C
 
+# Spotify Listening To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4eabb1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31tb2733wogqgree7mjmebaq2ubm&redirect=true)
 <!--
 **Voyager-XD/Voyager-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
